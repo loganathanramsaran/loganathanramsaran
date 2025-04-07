@@ -32,13 +32,3 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" alt="REACT JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
 </a>
-
-<br>
-
-<h2><b>My Technical & All Over Skills⚡</b> </h2>
-
-<br>
-<br>
-
-
-<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
