@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome All..💝</h1>
 <h3 align="center">A Passionate M-E-R-N Stack Developer</h3>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loganathanramsaran&label=Profile%20views&color=0e75b6&style=flat" alt="loganathanramsaran" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=loganathanramsaran&label=Profile%20views&color=0e75b6&style=flat" alt="loganathanramsaran" /> </p>
 
 - 💻 I’m currently working on **Frontend developement**
 
