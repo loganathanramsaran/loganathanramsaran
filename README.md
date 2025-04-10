@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **loguflower3@gmail.com**
 
-- ⚡ Fun Fact : **Trust the Process !!**
+- ⚡ Fun Fact : **Flow With Codes !!**
 <br>
 
 <h2>Languages and Tools ⚡</h2>
