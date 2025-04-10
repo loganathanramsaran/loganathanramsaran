@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **loguflower3@gmail.com**
 
-- ⚡ Fun Fact : **Flow With Codes !!**
+- ⚡ Fun Fact : **Play With Codes !!**
 <br>
 
 <h2>Languages and Tools ⚡</h2>
@@ -32,3 +32,15 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img width="40" height="40" alt="REACT JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
 </a>
+<br>
+<br>
+<h2> <b>My GitHub Status 👨‍💻 </b> </h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=loganathanramsaran&show_icons=true&locale=en&layout=compact)
+
+![Logu's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganathanramsaran&show_icons=true&locale=en)
+
+<br>
+<br>
+
+<h3 align= 'center' style="color: fuchsia"><b>Thanks for watching My Repo!!😍💖</b></h3>
