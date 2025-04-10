@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate M-E-R-N Stack Developer</h3>
 
 
-- 💻 I’m currently working on **Fullstack developement(MERN)**
+- 💻 I’m currently working on **Frontend developement & Passionate about Fullstack Developement (M-E-R-N)**
 
 - 🌱 I’m currently learning **Backend**
 
