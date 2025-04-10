@@ -3,7 +3,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loganathanramsaran&label=Profile%20views&color=0e75b6&style=flat" alt="loganathanramsaran" /> </p>
 
-- 💻 I’m currently working on **Frontend developement & Passionate about Fullstack Developement (M-E-R-N)**
+- 💻 I’m currently working on **Frontend developement**
 
 - 🌱 I’m currently learning **Backend**
 
